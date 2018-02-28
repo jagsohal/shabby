@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-02-28_1342",
+    "name": "Shabby Mom",
     "currentPage": "index.html",
     "theme": {
       "name": "storem4",
@@ -30,6 +30,10 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
     "versionFirst": "4.6.2",
     "uniqCompNum": 16,
     "versionPublish": "4.6.2"
